@@ -3,7 +3,15 @@ Small collection of extremely high resolution railway ballast particles digitize
 
 ![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/scanner.jpg?raw=true)
 
-A total of 10 ballast samples, numbered 0 through 9, were randomly selected from a new set; the samples were chosen to represent a range of sizes, all larger than 63 mm in size. Each ballast piece was numbered using a silver-coloured acrylic marker for unique identification that was used as part of the experimental procedure. The minimum detail level for the smallest particle (particle #0) was set to 1.5 million faces. The table below summarises the characteristics of each sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder.
+A total of 10 ballast samples, numbered 0 through 9, were randomly selected from a new set; the samples were chosen to represent a range of sizes, all larger than 63 mm in size. Each ballast piece was numbered using a silver-coloured acrylic marker for unique identification that was used as part of the experimental procedure. Every sample was positioned on the center of the turntable, completing 16 turns for both the "bottom" and "top" portions of the ballast sample; the two scans were automatically fused by the software prior to meshing as a waterproof mesh, ensuring a manifold structure.
+
+![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/ballastCollage.jpg?raw=true)
+
+The minimum detail level for the smallest particle (particle #0) was set to 1.5 million faces when using the simplification tools within the EinScanner software to reduce the point cloud density. This was increased incrementally as the particle size also increased.
+
+![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/0mesh.jpg?raw=true)
+
+The table below summarises the characteristics of each ballast sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder. These statistics were calculated using the free 3D print toolkit within [(Blender)](https://www.blender.org/).
 
 
 | Sample number  | Vertex count  | Face count | Dimensions (XYZ) [mm] | Volume [cm<sup>3<s/up>] | Surface area [cm<sup>2</sup>] | Size [Mb] |
