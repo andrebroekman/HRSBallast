@@ -1,7 +1,7 @@
 # RailwayBallast
 Small collection of extremely high resolution railway ballast particles digitized using a commercial 3D scanner [(Einscan Pro 3D)](https://www.einscan.com/handheld-3d-scanner/einscan-pro/). The reported scanning accuracy after the scanner's calibration was 12 micrometers.
 
-![alt text](https://github.com/andrebroekman/RailwayBallast/blob/Media/scanner.jpg?raw=true)
+![alt text](https://github.com/andrebroekman/RailwayBallast/Media/scanner.jpg?raw=true)
 
 A total of 10 ballast samples, numbered 0 through 9, were randomly selected from a new set; the samples were chosen to represent a range of sizes, all larger than 63 mm in size. Each ballast piece was numbered using a silver-coloured acrylic marker for unique identification that was used as part of the experimental procedure. The minimum detail level for the smallest particle (particle #0) was set to 1.5 million faces. The table below summarises the characteristics of each sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder.
 
