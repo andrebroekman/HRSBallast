@@ -1,9 +1,12 @@
-# RailwayBallast
-Small collection of extremely high resolution railway ballast particles digitized using a commercial 3D scanner [(Einscan Pro 3D)](https://www.einscan.com/handheld-3d-scanner/einscan-pro/). The reported scanning accuracy after the scanner's calibration was 12 micrometers.
+# Supersampled Railway Ballast
+
+## Data Description
+A small collection of 10, extremely high-resolution railway ballast particles digitized using a commercial 3D scanner [(Einscan Pro 3D)](https://www.einscan.com/handheld-3d-scanner/einscan-pro/). The reported scanning accuracy after the scanner's calibration was 12 micrometers.
 
 ![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/scanner.jpg?raw=true)
 
-A total of 10 ballast samples, numbered 0 through 9, were randomly selected from a new set; the samples were chosen to represent a range of sizes, all larger than 63 mm in size. Each ballast piece was numbered using a silver-coloured acrylic marker for unique identification that was used as part of the experimental procedure. Every sample was positioned on the center of the turntable, completing 16 turns for both the "bottom" and "top" portions of the ballast sample; the two scans were automatically fused by the software prior to meshing as a waterproof mesh, ensuring a manifold structure.
+## Digitisation procedure
+A total of 10 ballast samples, numbered 0 through 9, were randomly selected from a new set; the samples were chosen to represent a range of sizes, all larger than 63 mm in size. Each ballast piece was numbered using a silver-coloured acrylic marker for unique identification that was used as part of the experimental procedure. Every sample was positioned on the center of the turntable, completing 16 turns for both the "bottom" and "top" portions of the ballast sample; the two scans were automatically fused by the software prior to meshing as a waterproof mesh, ensuring a manifold structure. The scans were performed 2020/07/28 at the Engineering 4.0 campus located at the Hillcrest campus at the University of Pretoria.
 
 ![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/ballastCollage.jpg?raw=true)
 
@@ -11,6 +14,7 @@ The minimum detail level for the smallest particle (particle #0) was set to 1.5 
 
 ![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/0mesh.jpg?raw=true)
 
+## Data Summary
 The table below summarises the characteristics of each ballast sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder. These statistics were calculated using the free 3D print toolkit within [(Blender)](https://www.blender.org/).
 
 
@@ -26,3 +30,7 @@ The table below summarises the characteristics of each ballast sample. The zippe
 | #7             |  1.152M       | 2.305M     | 57.74, 86.21, 91.79   | 149.0712     | 169.1985           | 109       |
 | #8             |  1.232M       | 2.464M     | 82.49, 85.71, 87.72   | 163.8294     | 185.7390           | 117       |
 | #9             |  1.300M       | 2.601M     | 81.80, 79.11, 80.52   | 132.0831     | 162.2727           | 124       |
+ 
+ 
+## Author
+The Supersampled Railway Ballast repository is maintained by André Broekman in conjunction with the [Department of Civil Engineering, University of Pretoria](https://www.up.ac.za/civil-engineering), South Africa. Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/broekmanandre/), [ResearchGate](https://www.researchgate.net/profile/Andre_Broekman) or [Twitter](https://twitter.com/BroekmanAndre).
