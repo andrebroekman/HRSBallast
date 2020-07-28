@@ -18,7 +18,7 @@ The minimum detail level for the smallest particle (particle #0) was set to 1.5 
 The table below summarises the characteristics of each ballast sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder. These statistics were calculated using the free 3D print toolkit within [(Blender)](https://www.blender.org/).
 
 
-| Sample number  | Vertex count  | Face count | Dimensions (XYZ) [mm] | Volume [cm<sup>3<s/up>] | Surface area [cm<sup>2</sup>] | Size [Mb] |
+| Sample number  | Vertex count  | Face count | Dimensions (XYZ) [mm] | Volume [cm<sup>3</sup>] | Surface area [cm<sup>2</sup>] | Size [Mb] |
 | ---------------|---------------|------------|-----------------------|--------------|--------------------|-----------|
 | #0             |  780k         | 1.560M     | 61.57, 62.46, 56.92   | 66.3666      | 101.1267           | 72.4      |
 | #1             |  765k         | 1.530M     | 66.49, 60.32, 68.79   | 39.6309      | 84.1229            | 72.9      |
