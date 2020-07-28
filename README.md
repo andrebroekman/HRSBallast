@@ -1,4 +1,4 @@
-# Supersampled Railway Ballast
+# Supersampled Railway Ballast Dataset
 
 ## Data Description
 A small collection of 10, extremely high-resolution railway ballast particles digitized using a commercial 3D scanner [(Einscan Pro 3D)](https://www.einscan.com/handheld-3d-scanner/einscan-pro/). The reported scanning accuracy after the scanner's calibration was 12 micrometers.
