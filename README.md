@@ -12,7 +12,7 @@ A total of 10 ballast samples, numbered 0 through 9, were randomly selected from
 
 The minimum detail level for the smallest particle (particle #0) was set to 1.5 million faces when using the simplification tools within the EinScanner software to reduce the point cloud density. This was increased incrementally as the particle size also increased.
 
-![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/0mesh.jpg?raw=true)
+![alt text](https://github.com/andrebroekman/RailwayBallast/blob/master/Media/0mesh.JPG?raw=true)
 
 ## Data Summary
 The table below summarises the characteristics of each ballast sample. The zipped STL files can be downloaded from the [ModelFiles](ModelFiles/) folder. These statistics were calculated using the free 3D print toolkit within [(Blender)](https://www.blender.org/).
